@@ -1,0 +1,848 @@
+WHAT'S FOR DINNER - Meals Data
+
+Meal-1
+
+Name:        Creamy Spaghetti Carbonara
+Description: A classic Italian pasta dish with eggs, cheese, and pancetta
+Prep Time:   15 min
+Cook Time:   20 min
+Total Time:  35 min
+Servings:    4 people
+Difficulty:  Easy
+Category:    Italian
+Rating:      4.8 (234 reviews)
+
+Ingredients:
+  1. 400g spaghetti pasta
+  2. 200g pancetta or guanciale, diced
+  3. 4 large eggs
+  4. 100g Pecorino Romano cheese, grated
+  5. 50g Parmesan cheese, grated
+  6. Freshly ground black pepper
+  7. Salt for pasta water
+
+Instructions:
+  1. Bring a large pot of salted water to boil. Cook spaghetti according to package directions until al dente.
+  2. While pasta cooks, heat a large skillet over medium heat. Add diced pancetta and cook until crispy, about 5-7 minutes.
+  3. In a bowl, whisk together eggs, grated Pecorino Romano, and Parmesan cheese. Add plenty of freshly ground black pepper.
+  4. Reserve 1 cup of pasta cooking water before draining. Drain pasta and immediately add to the skillet with pancetta.
+  5. Remove skillet from heat. Quickly pour in egg mixture while tossing pasta vigorously. Add reserved pasta water as needed to create a creamy sauce.
+  6. Serve immediately with extra cheese and black pepper on top. Enjoy your authentic carbonara!
+
+Nutrition:
+  Calories: 520 kcal
+  Protein:  28g
+  Carbs:    62g
+  Fat:      18g
+  Fiber:    3g
+  Sodium:   680mg
+
+Chef's Tips:
+  - Use room temperature eggs for a smoother sauce consistency
+  - Work quickly when mixing eggs with hot pasta to avoid scrambling
+  - Reserve extra pasta water - it's the secret to perfect creaminess
+  - Freshly grated cheese makes all the difference in flavor
+  - Never add cream - authentic carbonara is made with eggs only
+
+Meal-02
+
+Name:        Honey Garlic Salmon
+Description: Pan-seared salmon with a sweet and savory glaze
+Prep Time:   10 min
+Cook Time:   15 min
+Total Time:  25 min
+Servings:    2 people
+Difficulty:  Easy
+Category:    Seafood
+Rating:      4.9 (187 reviews)
+
+Ingredients:
+  1. 2 salmon fillets (6oz each)
+  2. 3 tablespoons honey
+  3. 2 tablespoons soy sauce
+  4. 4 cloves garlic, minced
+  5. 1 tablespoon olive oil
+  6. 1 teaspoon fresh ginger, grated
+  7. Sesame seeds for garnish
+  8. Green onions, sliced
+
+Instructions:
+  1. Pat salmon fillets dry with paper towels. Season with salt and pepper.
+  2. In a small bowl, whisk together honey, soy sauce, minced garlic, and grated ginger.
+  3. Heat olive oil in a large skillet over medium-high heat.
+  4. Place salmon fillets skin-side up in the pan. Cook for 4-5 minutes until golden.
+  5. Flip salmon and pour honey garlic sauce over the top. Cook for another 4-5 minutes.
+  6. Garnish with sesame seeds and sliced green onions. Serve with steamed vegetables or rice.
+
+Nutrition:
+  Calories: 380 kcal
+  Protein:  35g
+  Carbs:    28g
+  Fat:      14g
+  Fiber:    0g
+  Sodium:   720mg
+
+Chef's Tips:
+  - Don't overcook salmon - it should be slightly pink in the center
+  - Use wild-caught salmon for best flavor and nutrition
+  - Let the sauce caramelize slightly for deeper flavor
+  - Pair with steamed broccoli or asparagus for a complete meal
+
+
+Meal-03
+
+
+Name:        Thai Green Curry
+Description: Vibrant and aromatic curry with vegetables and coconut milk
+Prep Time:   15 min
+Cook Time:   25 min
+Total Time:  40 min
+Servings:    4 people
+Difficulty:  Intermediate
+Category:    Asian
+Rating:      4.7 (312 reviews)
+
+Ingredients:
+  1. 2 tablespoons green curry paste
+  2. 400ml coconut milk
+  3. 300g chicken breast, sliced
+  4. 1 red bell pepper, sliced
+  5. 100g green beans
+  6. 1 eggplant, cubed
+  7. 2 tablespoons fish sauce
+  8. 1 tablespoon palm sugar
+  9. Fresh Thai basil leaves
+
+Instructions:
+  1. Heat a large pot or wok over medium heat. Add curry paste and cook for 1 minute until fragrant.
+  2. Add half the coconut milk and stir to combine with the curry paste.
+  3. Add sliced chicken and cook until no longer pink, about 5 minutes.
+  4. Add remaining coconut milk, vegetables, fish sauce, and palm sugar.
+  5. Simmer for 15-20 minutes until vegetables are tender and sauce has thickened.
+  6. Stir in fresh Thai basil leaves. Serve hot with jasmine rice.
+
+Nutrition:
+  Calories: 420 kcal
+  Protein:  26g
+  Carbs:    22g
+  Fat:      26g
+  Fiber:    5g
+  Sodium:   890mg
+
+Chef's Tips:
+  - Adjust spice level by using more or less curry paste
+  - Add vegetables in stages based on cooking time needed
+  - Fresh Thai basil is essential for authentic flavor
+  - Use full-fat coconut milk for richest, creamiest sauce
+
+Meal-4
+
+Name:        Classic Beef Burger
+Description: Juicy homemade burger with all the fixings
+Prep Time:   15 min
+Cook Time:   20 min
+Total Time:  35 min
+Servings:    4 people
+Difficulty:  Easy
+Category:    American
+Rating:      4.6 (421 reviews)
+
+Ingredients:
+  1. 500g ground beef (80/20)
+  2. 4 burger buns
+  3. 4 slices cheddar cheese
+  4. Lettuce leaves
+  5. Tomato slices
+  6. Red onion, sliced
+  7. Pickles
+  8. Burger sauce or condiments
+
+Instructions:
+  1. Divide ground beef into 4 equal portions. Form into patties, making a small indent in the center.
+  2. Season patties generously with salt and pepper on both sides.
+  3. Heat a grill or skillet over high heat. Cook patties for 4-5 minutes per side for medium.
+  4. Add cheese slices in the last minute of cooking and cover to melt.
+  5. Toast burger buns lightly on the grill or in a pan.
+  6. Assemble burgers with lettuce, tomato, onion, pickles, and your favorite sauce.
+
+Nutrition:
+  Calories: 650 kcal
+  Protein:  38g
+  Carbs:    42g
+  Fat:      35g
+  Fiber:    2g
+  Sodium:   920mg
+
+Chef's Tips:
+  - Don't press down on burgers while cooking - keeps them juicy
+  - Make indent in center to prevent burger from puffing up
+  - Let patties rest for 2-3 minutes before serving
+  - Toast buns for better texture and flavor
+
+Meal-5
+
+Name:        Mediterranean Quinoa Bowl
+Description: Healthy bowl with quinoa, vegetables, and tahini dressing
+Prep Time:   20 min
+Cook Time:   35 min
+Total Time:  55 min
+Servings:    2 people
+Difficulty:  Easy
+Category:    Mediterranean
+Rating:      4.5 (156 reviews)
+
+Ingredients:
+  1. 1 cup quinoa
+  2. Cherry tomatoes, halved
+  3. Cucumber, diced
+  4. Red onion, sliced
+  5. Kalamata olives
+  6. Feta cheese, crumbled
+  7. Fresh parsley
+  8. Tahini dressing
+
+Instructions:
+  1. Rinse quinoa thoroughly. Cook according to package directions, usually 15 minutes.
+  2. While quinoa cooks, prepare all vegetables and set aside.
+  3. For tahini dressing: mix tahini, lemon juice, garlic, and water until smooth.
+  4. Fluff cooked quinoa with a fork and let cool slightly.
+  5. Arrange quinoa in bowls. Top with tomatoes, cucumber, onion, and olives.
+  6. Sprinkle with feta cheese and fresh parsley. Drizzle with tahini dressing.
+
+Nutrition:
+  Calories: 480 kcal
+  Protein:  18g
+  Carbs:    58g
+  Fat:      20g
+  Fiber:    10g
+  Sodium:   540mg
+
+Chef's Tips:
+  - Rinse quinoa well to remove bitter coating
+  - Let quinoa cool before adding fresh ingredients
+  - Make extra tahini dressing - it keeps well in the fridge
+  - Add grilled chicken or chickpeas for extra protein
+
+Meal-6
+
+Name:        Chicken Tikka Masala
+Description: Rich and creamy Indian curry with tender chicken pieces
+Prep Time:   20 min
+Cook Time:   30 min
+Total Time:  50 min
+Servings:    4 people
+Difficulty:  Intermediate
+Category:    Asian
+Rating:      4.7 (389 reviews)
+
+Ingredients:
+  1. 600g chicken breast, cubed
+  2. 1 cup plain yogurt
+  3. 2 tablespoons tikka masala paste
+  4. 400ml coconut cream
+  5. 1 onion, diced
+  6. 4 cloves garlic, minced
+  7. 2 tablespoons ginger, grated
+  8. 400g canned tomatoes
+  9. Fresh cilantro for garnish
+
+Instructions:
+  1. Marinate chicken in half the yogurt and 1 tablespoon tikka paste for at least 30 minutes.
+  2. Heat oil in a large pan, cook marinated chicken until browned. Remove and set aside.
+  3. In the same pan, sauté onion until soft. Add garlic and ginger, cook for 1 minute.
+  4. Add remaining tikka paste and canned tomatoes. Simmer for 10 minutes.
+  5. Stir in coconut cream and remaining yogurt. Add chicken back to the pan.
+  6. Simmer for 15 minutes until sauce thickens. Garnish with cilantro and serve with rice.
+
+Nutrition:
+  Calories: 450 kcal
+  Protein:  38g
+  Carbs:    24g
+  Fat:      22g
+  Fiber:    4g
+  Sodium:   760mg
+
+Chef's Tips:
+  - Marinate chicken overnight for deeper flavor
+  - Use full-fat coconut cream for richest sauce
+  - Adjust spice level by varying the tikka paste amount
+  - Serve with naan bread and basmati rice
+
+Meal-7
+
+Name:        Margherita Pizza
+Description: Classic Italian pizza with fresh mozzarella and basil
+Prep Time:   90 min
+Cook Time:   12 min
+Total Time:  102 min
+Servings:    2 people
+Difficulty:  Intermediate
+Category:    Italian
+Rating:      4.9 (512 reviews)
+
+Ingredients:
+  1. 300g pizza dough
+  2. 200g crushed tomatoes
+  3. 250g fresh mozzarella
+  4. Fresh basil leaves
+  5. 2 tablespoons olive oil
+  6. 2 cloves garlic, minced
+  7. Salt and pepper to taste
+  8. Parmesan cheese for topping
+
+Instructions:
+  1. Let pizza dough come to room temperature and rest for 1 hour.
+  2. Preheat oven to maximum temperature (usually 250°C/480°F).
+  3. Mix crushed tomatoes with olive oil, garlic, salt, and pepper for the sauce.
+  4. Roll out dough on a floured surface to desired thickness.
+  5. Spread tomato sauce, add torn mozzarella pieces, and drizzle with olive oil.
+  6. Bake for 10-12 minutes until crust is golden. Top with fresh basil and parmesan.
+
+Nutrition:
+  Calories: 580 kcal
+  Protein:  24g
+  Carbs:    68g
+  Fat:      22g
+  Fiber:    4g
+  Sodium:   920mg
+
+Chef's Tips:
+  - Use a pizza stone for crispier crust
+  - Don't overload with toppings - less is more
+  - Add basil after baking to keep it fresh
+  - Let dough rest properly for best texture
+
+Meal-8
+
+Name:        Beef Tacos
+Description: Flavorful Mexican tacos with seasoned ground beef
+Prep Time:   15 min
+Cook Time:   20 min
+Total Time:  35 min
+Servings:    4 people
+Difficulty:  Easy
+Category:    American
+Rating:      4.6 (278 reviews)
+
+Ingredients:
+  1. 500g ground beef
+  2. 8 taco shells
+  3. 1 onion, diced
+  4. 2 tablespoons taco seasoning
+  5. Shredded lettuce
+  6. Diced tomatoes
+  7. Shredded cheddar cheese
+  8. Sour cream
+  9. Salsa
+
+Instructions:
+  1. Heat a large skillet over medium-high heat. Cook ground beef until browned.
+  2. Add diced onion and cook until softened, about 5 minutes.
+  3. Stir in taco seasoning and 1/2 cup water. Simmer for 10 minutes.
+  4. Warm taco shells according to package directions.
+  5. Fill each shell with seasoned beef.
+  6. Top with lettuce, tomatoes, cheese, sour cream, and salsa. Serve immediately.
+
+Nutrition:
+  Calories: 420 kcal
+  Protein:  26g
+  Carbs:    32g
+  Fat:      20g
+  Fiber:    4g
+  Sodium:   780mg
+
+Chef's Tips:
+  - Drain excess fat from beef for healthier tacos
+  - Warm shells in oven for better texture
+  - Prepare all toppings before cooking beef
+  - Use ground turkey for a lighter option
+
+Meal-9
+
+Name:        Caesar Salad
+Description: Classic salad with crispy romaine and creamy dressing
+Prep Time:   15 min
+Cook Time:   0 min
+Total Time:  15 min
+Servings:    2 people
+Difficulty:  Easy
+Category:    Mediterranean
+Rating:      4.4 (198 reviews)
+
+Ingredients:
+  1. 1 large romaine lettuce
+  2. 1/2 cup Caesar dressing
+  3. 1/2 cup parmesan cheese, shaved
+  4. 1 cup croutons
+  5. 2 anchovy fillets (optional)
+  6. Lemon wedges
+  7. Black pepper
+
+Instructions:
+  1. Wash and dry romaine lettuce thoroughly. Tear into bite-sized pieces.
+  2. Place lettuce in a large salad bowl.
+  3. Add Caesar dressing and toss until evenly coated.
+  4. Add croutons and half the parmesan cheese. Toss gently.
+  5. Top with remaining parmesan shavings and anchovies if using.
+  6. Serve immediately with lemon wedges and fresh black pepper.
+
+Nutrition:
+  Calories: 320 kcal
+  Protein:  12g
+  Carbs:    18g
+  Fat:      22g
+  Fiber:    3g
+  Sodium:   680mg
+
+Chef's Tips:
+  - Use cold, crisp lettuce for best texture
+  - Make homemade croutons for better flavor
+  - Add grilled chicken for a complete meal
+  - Don't dress salad until ready to serve
+
+Meal-10
+
+Name:        Pad Thai
+Description: Popular Thai stir-fried noodles with shrimp and peanuts
+Prep Time:   20 min
+Cook Time:   15 min
+Total Time:  35 min
+Servings:    2 people
+Difficulty:  Intermediate
+Category:    Asian
+Rating:      4.8 (445 reviews)
+
+Ingredients:
+  1. 200g rice noodles
+  2. 200g shrimp, peeled
+  3. 2 eggs
+  4. 3 tablespoons tamarind paste
+  5. 2 tablespoons fish sauce
+  6. 1 tablespoon palm sugar
+  7. Bean sprouts
+  8. Crushed peanuts
+  9. Lime wedges and cilantro
+
+Instructions:
+  1. Soak rice noodles in warm water for 30 minutes. Drain and set aside.
+  2. Mix tamarind paste, fish sauce, and palm sugar to make the sauce.
+  3. Heat wok over high heat. Scramble eggs and set aside.
+  4. Cook shrimp until pink. Add noodles and sauce, toss for 2-3 minutes.
+  5. Add scrambled eggs and bean sprouts. Toss everything together.
+  6. Serve topped with crushed peanuts, lime wedges, and cilantro.
+
+Nutrition:
+  Calories: 540 kcal
+  Protein:  32g
+  Carbs:    62g
+  Fat:      16g
+  Fiber:    4g
+  Sodium:   1120mg
+
+Chef's Tips:
+  - Don't oversoak noodles or they'll be mushy
+  - Cook on high heat for authentic wok flavor
+  - Balance sweet, sour, and salty flavors
+  - Prepare all ingredients before starting to cook
+
+Meal-11
+
+Name:        French Onion Soup
+Description: Rich beef broth with caramelized onions and melted cheese
+Prep Time:   15 min
+Cook Time:   60 min
+Total Time:  75 min
+Servings:    4 people
+Difficulty:  Intermediate
+Category:    Mediterranean
+Rating:      4.7 (267 reviews)
+
+Ingredients:
+  1. 4 large onions, thinly sliced
+  2. 4 tablespoons butter
+  3. 1 liter beef broth
+  4. 1/2 cup white wine
+  5. 2 bay leaves
+  6. Fresh thyme
+  7. Baguette slices
+  8. 200g Gruyère cheese, grated
+
+Instructions:
+  1. Melt butter in a large pot. Add onions and cook slowly for 40 minutes, stirring occasionally until caramelized.
+  2. Add white wine and deglaze the pot, scraping up brown bits.
+  3. Pour in beef broth, add bay leaves and thyme. Simmer for 20 minutes.
+  4. Meanwhile, toast baguette slices until golden.
+  5. Ladle soup into oven-safe bowls. Top with toasted bread and cheese.
+  6. Broil for 3-5 minutes until cheese is melted and bubbly. Serve hot.
+
+Nutrition:
+  Calories: 380 kcal
+  Protein:  18g
+  Carbs:    36g
+  Fat:      18g
+  Fiber:    4g
+  Sodium:   980mg
+
+Chef's Tips:
+  - Patience is key - don't rush the onion caramelization
+  - Use good quality beef broth for best flavor
+  - Gruyère can be substituted with Swiss cheese
+  - Watch carefully when broiling to avoid burning
+
+Meal-12
+
+Name:        Chicken Stir-Fry
+Description: Quick and healthy stir-fry with colorful vegetables
+Prep Time:   15 min
+Cook Time:   15 min
+Total Time:  30 min
+Servings:    4 people
+Difficulty:  Easy
+Category:    Asian
+Rating:      4.5 (324 reviews)
+
+Ingredients:
+  1. 500g chicken breast, sliced
+  2. 2 bell peppers, sliced
+  3. 1 broccoli head, florets
+  4. 2 carrots, julienned
+  5. 3 tablespoons soy sauce
+  6. 2 tablespoons oyster sauce
+  7. 1 tablespoon sesame oil
+  8. 2 cloves garlic, minced
+  9. Fresh ginger, grated
+
+Instructions:
+  1. Mix soy sauce, oyster sauce, and sesame oil for the sauce.
+  2. Heat wok over high heat with oil. Cook chicken until golden, remove and set aside.
+  3. Add more oil if needed. Stir-fry garlic and ginger for 30 seconds.
+  4. Add vegetables, starting with hardest ones (carrots, broccoli). Cook for 3-4 minutes.
+  5. Return chicken to wok, add bell peppers and sauce. Toss for 2 minutes.
+  6. Serve immediately over steamed rice or noodles.
+
+Nutrition:
+  Calories: 320 kcal
+  Protein:  34g
+  Carbs:    18g
+  Fat:      12g
+  Fiber:    5g
+  Sodium:   840mg
+
+Chef's Tips:
+  - Cut all ingredients before starting to cook
+  - Keep heat high for authentic stir-fry texture
+  - Don't overcrowd the wok or vegetables will steam
+  - Add cashews or peanuts for extra crunch
+
+Meal-13
+
+Name:        Lasagna Bolognese
+Description: Layered Italian pasta with rich meat sauce and béchamel
+Prep Time:   30 min
+Cook Time:   90 min
+Total Time:  120 min
+Servings:    4 people
+Difficulty:  Intermediate
+Category:    Italian
+Rating:      4.9 (478 reviews)
+
+Ingredients:
+  1. 12 lasagna sheets
+  2. 500g ground beef
+  3. 400g canned tomatoes
+  4. 1 onion, diced
+  5. 2 carrots, diced
+  6. 500ml béchamel sauce
+  7. 200g mozzarella, grated
+  8. 100g parmesan cheese
+  9. Fresh basil
+
+Instructions:
+  1. Cook ground beef with onion and carrots until browned. Add tomatoes and simmer for 30 minutes.
+  2. Cook lasagna sheets according to package directions. Drain and set aside.
+  3. Preheat oven to 180°C (350°F).
+  4. In a baking dish, layer: meat sauce, lasagna sheets, béchamel sauce. Repeat 3-4 times.
+  5. Top final layer with béchamel, mozzarella, and parmesan cheese.
+  6. Bake for 45 minutes until golden and bubbly. Let rest 10 minutes before serving.
+
+Nutrition:
+  Calories: 680 kcal
+  Protein:  42g
+  Carbs:    58g
+  Fat:      28g
+  Fiber:    6g
+  Sodium:   920mg
+
+Chef's Tips:
+  - Make bolognese sauce a day ahead for better flavor
+  - Don't skip the resting time after baking
+  - Use fresh pasta sheets for best texture
+  - Freeze leftovers in individual portions
+
+Meal-14
+
+Name:        Shrimp Scampi
+Description: Garlicky shrimp in white wine butter sauce
+Prep Time:   10 min
+Cook Time:   15 min
+Total Time:  25 min
+Servings:    2 people
+Difficulty:  Easy
+Category:    Seafood
+Rating:      4.8 (356 reviews)
+
+Ingredients:
+  1. 400g large shrimp, peeled
+  2. 300g linguine pasta
+  3. 6 cloves garlic, minced
+  4. 1/2 cup white wine
+  5. 4 tablespoons butter
+  6. 2 tablespoons olive oil
+  7. Fresh parsley, chopped
+  8. Lemon juice and zest
+  9. Red pepper flakes
+
+Instructions:
+  1. Cook linguine according to package directions. Reserve 1 cup pasta water.
+  2. Heat olive oil and 2 tablespoons butter in a large pan. Add garlic and red pepper flakes, cook for 1 minute.
+  3. Add shrimp, cook until pink on both sides, about 3-4 minutes. Remove and set aside.
+  4. Add white wine to pan, simmer for 2 minutes. Add remaining butter and lemon juice.
+  5. Return shrimp to pan, add cooked pasta and toss. Add pasta water if needed.
+  6. Garnish with parsley, lemon zest, and serve immediately.
+
+Nutrition:
+  Calories: 520 kcal
+  Protein:  36g
+  Carbs:    54g
+  Fat:      18g
+  Fiber:    3g
+  Sodium:   620mg
+
+Chef's Tips:
+  - Don't overcook shrimp - they cook very quickly
+  - Use good quality white wine for best flavor
+  - Toss pasta in sauce for maximum flavor absorption
+  - Add extra lemon for bright, fresh taste
+
+Meal-15
+
+Name:        Vegetable Curry
+Description: Hearty vegetarian curry with coconut milk
+Prep Time:   20 min
+Cook Time:   30 min
+Total Time:  50 min
+Servings:    4 people
+Difficulty:  Easy
+Category:    Asian
+Rating:      4.6 (289 reviews)
+
+Ingredients:
+  1. 2 potatoes, cubed
+  2. 1 cauliflower, florets
+  3. 2 carrots, sliced
+  4. 1 can chickpeas
+  5. 400ml coconut milk
+  6. 3 tablespoons curry powder
+  7. 1 onion, diced
+  8. 3 cloves garlic, minced
+  9. Fresh spinach
+
+Instructions:
+  1. Heat oil in a large pot. Sauté onion until soft, add garlic and curry powder, cook for 1 minute.
+  2. Add potatoes and carrots, cook for 5 minutes.
+  3. Pour in coconut milk and 1 cup water. Bring to simmer.
+  4. Add cauliflower and chickpeas. Cook for 20 minutes until vegetables are tender.
+  5. Stir in fresh spinach and cook until wilted.
+  6. Serve hot over basmati rice or with naan bread.
+
+Nutrition:
+  Calories: 380 kcal
+  Protein:  14g
+  Carbs:    48g
+  Fat:      16g
+  Fiber:    12g
+  Sodium:   480mg
+
+Chef's Tips:
+  - Add vegetables in order of cooking time needed
+  - Adjust curry powder amount to taste
+  - Use full-fat coconut milk for creamier curry
+  - Add protein like tofu or paneer if desired
+
+Meal-16
+
+Name:        BBQ Pulled Pork
+Description: Slow-cooked tender pork in smoky barbecue sauce
+Prep Time:   15 min
+Cook Time:   240 min
+Total Time:  255 min
+Servings:    4 people
+Difficulty:  Easy
+Category:    American
+Rating:      4.7 (412 reviews)
+
+Ingredients:
+  1. 1kg pork shoulder
+  2. 1 cup BBQ sauce
+  3. 1/2 cup apple cider vinegar
+  4. 2 tablespoons brown sugar
+  5. 1 tablespoon paprika
+  6. 1 tablespoon garlic powder
+  7. Burger buns
+  8. Coleslaw for serving
+
+Instructions:
+  1. Mix paprika, garlic powder, brown sugar, salt and pepper. Rub all over pork shoulder.
+  2. Place pork in slow cooker with apple cider vinegar and 1/2 cup water.
+  3. Cook on low for 8 hours or high for 4 hours until meat is very tender.
+  4. Remove pork and shred with two forks. Discard excess fat.
+  5. Return shredded pork to slow cooker, mix with BBQ sauce.
+  6. Serve on toasted buns with coleslaw on top.
+
+Nutrition:
+  Calories: 620 kcal
+  Protein:  48g
+  Carbs:    52g
+  Fat:      22g
+  Fiber:    3g
+  Sodium:   1180mg
+
+Chef's Tips:
+  - Use pork shoulder for best results - it stays moist
+  - Let pork rest before shredding for juicier meat
+  - Make your own BBQ sauce for better flavor
+  - Leftovers freeze well for up to 3 months
+
+Meal-17
+
+Name:        Greek Moussaka
+Description: Traditional layered eggplant casserole with lamb
+Prep Time:   30 min
+Cook Time:   60 min
+Total Time:  90 min
+Servings:    4 people
+Difficulty:  Intermediate
+Category:    Mediterranean
+Rating:      4.8 (234 reviews)
+
+Ingredients:
+  1. 3 large eggplants, sliced
+  2. 500g ground lamb
+  3. 400g canned tomatoes
+  4. 1 onion, diced
+  5. 3 cloves garlic, minced
+  6. 500ml béchamel sauce
+  7. 100g parmesan cheese
+  8. Cinnamon and oregano
+  9. Olive oil
+
+Instructions:
+  1. Slice eggplants, salt them, and let sit for 30 minutes. Rinse and pat dry.
+  2. Brush eggplant slices with olive oil, grill or bake until softened.
+  3. Cook ground lamb with onion and garlic. Add tomatoes, cinnamon, oregano. Simmer 20 minutes.
+  4. Preheat oven to 180°C (350°F).
+  5. Layer in baking dish: eggplant, meat sauce, eggplant, meat sauce. Top with béchamel and parmesan.
+  6. Bake for 45 minutes until golden. Let rest 15 minutes before serving.
+
+Nutrition:
+  Calories: 580 kcal
+  Protein:  36g
+  Carbs:    32g
+  Fat:      32g
+  Fiber:    8g
+  Sodium:   820mg
+
+Chef's Tips:
+  - Salt eggplant to remove bitterness
+  - Don't skip the resting time - it helps set the layers
+  - Use ground beef if lamb is unavailable
+  - Make ahead and reheat for easier serving
+
+Meal-18
+
+Name:        Teriyaki Chicken Bowl
+Description: Sweet and savory chicken over rice with vegetables
+Prep Time:   15 min
+Cook Time:   20 min
+Total Time:  35 min
+Servings:    2 people
+Difficulty:  Easy
+Category:    Asian
+Rating:      4.7 (367 reviews)
+
+Ingredients:
+  1. 400g chicken thighs, sliced
+  2. 1/2 cup teriyaki sauce
+  3. 2 cups cooked rice
+  4. 1 broccoli head, florets
+  5. 1 carrot, julienned
+  6. Sesame seeds
+  7. Green onions, sliced
+  8. 1 tablespoon sesame oil
+
+Instructions:
+  1. Heat sesame oil in a pan. Cook chicken until browned on all sides.
+  2. Add teriyaki sauce to chicken, simmer for 5 minutes until sauce thickens.
+  3. Meanwhile, steam broccoli and carrots until tender-crisp.
+  4. Divide rice between bowls.
+  5. Top with teriyaki chicken and steamed vegetables.
+  6. Garnish with sesame seeds and green onions. Serve hot.
+
+Nutrition:
+  Calories: 540 kcal
+  Protein:  42g
+  Carbs:    58g
+  Fat:      14g
+  Fiber:    4g
+  Sodium:   1240mg
+
+Chef's Tips:
+  - Use chicken thighs for juicier meat
+  - Make homemade teriyaki sauce for better flavor control
+  - Add edamame for extra protein
+  - Meal prep by cooking rice and chicken ahead
+
+Meal-19
+
+Name:        Caprese Sandwich
+Description: Fresh Italian sandwich with mozzarella, tomato, and basil
+Prep Time:   10 min
+Cook Time:   5 min
+Total Time:  15 min
+Servings:    2 people
+Difficulty:  Easy
+Category:    Italian
+Rating:      4.5 (189 reviews)
+
+Ingredients:
+  1. 1 ciabatta bread
+  2. 200g fresh mozzarella, sliced
+  3. 2 large tomatoes, sliced
+  4. Fresh basil leaves
+  5. 3 tablespoons pesto
+  6. 2 tablespoons balsamic glaze
+  7. Olive oil
+  8. Salt and pepper
+
+Instructions:
+  1. Slice ciabatta bread in half horizontally.
+  2. Toast bread lightly until just crispy.
+  3. Spread pesto on both sides of bread.
+  4. Layer mozzarella slices, tomato slices, and fresh basil leaves.
+  5. Drizzle with olive oil and balsamic glaze. Season with salt and pepper.
+  6. Close sandwich, cut in half, and serve immediately.
+
+Nutrition:
+  Calories: 480 kcal
+  Protein:  22g
+  Carbs:    48g
+  Fat:      22g
+  Fiber:    3g
+  Sodium:   680mg
+
+Chef's Tips:
+  - Use ripe, in-season tomatoes for best flavor
+  - Buffalo mozzarella is traditional but harder to slice
+  - Toast bread lightly - not too crispy
+  - Add prosciutto or salami for a heartier sandwich
+

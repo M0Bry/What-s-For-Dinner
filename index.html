@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What's For Dinner</title>
+
+    <link rel="icon" href="Assets/favicon.png" />
+    <link rel="stylesheet" href="CSS/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+</head>
+
+<body>
+    <header class="Navbar">
+      <div class="Container Navbar_inner">
+        <div class="Brand">
+          <div class="Brand_logo">
+            <i class="fa-solid fa-utensils"></i>
+          </div>
+
+          <div class="Brand_text">
+            <h1 class="Brand_title">What's For Dinner</h1>
+            <p class="Brand_subtitle">Your daily meal inspiration</p>
+          </div>
+        </div>
+
+        <nav class="Navbar_links">
+          <button class="Nav_icon_btn" title="Saved recipes">
+            <i class="fa-solid fa-bookmark"></i>
+          </button>
+
+          <button class="Nav_icon_btn" title="Recent recipes">
+            <i class="fa-solid fa-clock-rotate-left"></i>
+          </button>
+
+          <button class="Nav_icon_btn" title="Settings">
+            <i class="fa-solid fa-gear"></i>
+          </button>
+
+          <img src="Assets/avatar-4.jpg" alt="Profile" class="Nav_avatar" />
+        </nav>
+
+</div>
+
+    </header>
+
+    <main class="Container">
+      <section class="Recipe_card Hidden" id="Recipe_display_section">
+        <div class="Recipe_image_side">
+          <img id="Recipe_image" src="Assets/Meals/meal-01.jpg" alt="Recipe photo" />
+
+          <div class="Rating_badge">
+            <i class="fa-solid fa-star Rating_star"></i>
+            <span class="Rating_average" id="Rating_average">4.8</span>
+            <span class="Rating_count" id="Rating_quantity">(234 reviews)</span>
+          </div>
+
+          <div class="Time_bar">
+            <div class="Time_item">
+              <i class="fa-solid fa-clock Prep_icon"></i>
+              <p class="Time_label">Prep Time</p>
+              <p class="Time_value" id="Prep_time_display">15 min</p>
+            </div>
+
+            <div class="Time_item">
+              <i class="fa-solid fa-fire-burner Cook_icon"></i>
+              <p class="Time_label">Cook Time</p>
+              <p class="Time_value" id="Cook_time_display">20 min</p>
+            </div>
+
+            <div class="Time_item">
+              <i class="fa-solid fa-users Servings_icon"></i>
+              <p class="Time_label">Servings</p>
+              <p class="Time_value" id="Servings_display">4 people</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="Recipe_info_side">
+          <div class="Recipe_head">
+            <div class="Recipe_head_text">
+              <div class="Badges_row">
+                <span class="Badge Badge_difficulty" id="Difficulty_badge">Easy</span>
+                <span class="Badge Badge_category" id="Category_badge">Italian</span>
+              </div>
+
+              <h2 class="Recipe_name" id="Recipe_name">
+                Creamy Spaghetti Carbonara
+              </h2>
+
+              <p class="Recipe_description" id="Recipe_description">
+                A classic Italian pasta dish with eggs, cheese, and pancetta
+              </p>
+            </div>
+
+            <div class="Recipe_actions">
+              <button class="Action_btn" title="Save recipe">
+                <i class="fa-solid fa-bookmark"></i>
+              </button>
+
+              <button class="Action_btn" id="Share_btn" title="Share recipe">
+                <i class="fa-solid fa-share-nodes"></i>
+              </button>
+            </div>
+          </div>
+
+          <div class="Time_warning Hidden" id="Time_warning">
+            <i class="fa-solid fa-triangle-exclamation Warning_icon"></i>
+
+            <div>
+              <p class="Warning_title">Extended Preparation Time</p>
+              <p class="Warning_text">
+                This recipe requires more than 45 minutes to prepare. Plan
+                accordingly!
+              </p>
+            </div>
+          </div>
+
+          <div class="Tabs_box">
+            <div class="Tabs">
+              <button class="Tab_button Active" data-tab="Ingredients">
+                <i class="fa-solid fa-list-check"></i>
+                <span>Ingredients</span>
+              </button>
+
+              <button class="Tab_button" data-tab="Instructions">
+                <i class="fa-solid fa-book-open"></i>
+                <span>Instructions</span>
+              </button>
+
+              <button class="Tab_button" data-tab="Nutrition">
+                <i class="fa-solid fa-chart-pie"></i>
+                <span>Nutrition</span>
+              </button>
+
+              <button class="Tab_button" data-tab="Tips">
+                <i class="fa-solid fa-lightbulb"></i>
+                <span>Chef's Tips</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="Tab_content" id="Ingredients_tab">
+            <div class="Ingredients_box">
+              <ul class="Ingredients_list" id="Ingredients_list"></ul>
+            </div>
+          </div>
+
+          <div class="Tab_content Hidden" id="Instructions_tab">
+            <div class="Instructions_list" id="Instructions_list"></div>
+          </div>
+
+          <div class="Tab_content Hidden" id="Nutrition_tab">
+            <div class="Nutrition_grid">
+              <div class="Nutrition_item">
+                <div class="Nutrition_label">
+                  <div class="Nutrition_chip Chip_orange">
+                    <i class="fa-solid fa-fire"></i>
+                  </div>
+                  <span>Calories</span>
+                </div>
+                <span class="Nutrition_value" id="Calories_value">520 kcal</span>
+              </div>
+
+              <div class="Nutrition_item">
+                <div class="Nutrition_label">
+                  <div class="Nutrition_chip Chip_blue">
+                    <i class="fa-solid fa-dumbbell"></i>
+                  </div>
+                  <span>Protein</span>
+                </div>
+                <span class="Nutrition_value" id="Protein_value">28g</span>
+              </div>
+
+              <div class="Nutrition_item">
+                <div class="Nutrition_label">
+                  <div class="Nutrition_chip Chip_yellow">
+                    <i class="fa-solid fa-wheat-awn"></i>
+                  </div>
+                  <span>Carbohydrates</span>
+                </div>
+                <span class="Nutrition_value" id="Carbs_value">62g</span>
+              </div>
+
+              <div class="Nutrition_item">
+                <div class="Nutrition_label">
+                  <div class="Nutrition_chip Chip_red">
+                    <i class="fa-solid fa-droplet"></i>
+                  </div>
+                  <span>Fat</span>
+                </div>
+                <span class="Nutrition_value" id="Fat_value">18g</span>
+              </div>
+
+              <div class="Nutrition_item">
+                <div class="Nutrition_label">
+                  <div class="Nutrition_chip Chip_green">
+                    <i class="fa-solid fa-seedling"></i>
+                  </div>
+                  <span>Fiber</span>
+                </div>
+                <span class="Nutrition_value" id="Fiber_value">3g</span>
+              </div>
+
+              <div class="Nutrition_item">
+                <div class="Nutrition_label">
+                  <div class="Nutrition_chip Chip_pink">
+                    <i class="fa-solid fa-cube"></i>
+                  </div>
+                  <span>Sodium</span>
+                </div>
+                <span class="Nutrition_value" id="Sodium_value">680mg</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="Tab_content Hidden" id="Tips_tab">
+            <div class="Tips_list" id="Tips_list"></div>
+          </div>
+
+          <div class="Recipe_footer">
+            <button class="Try_btn" id="Try_another_btn">
+              <i class="fa-solid fa-rotate"></i> Try Another Recipe
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="JS/Meals.js"></script>
+    <script src="JS/App.js"></script>
+    
+</body>
+</html>
